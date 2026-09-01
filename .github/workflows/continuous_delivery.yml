@@ -18,4 +18,4 @@ jobs:
                 uses: docker/build-push-action@v7
                 with:
                     push: true
-                    tags: acnaweb/study-apir:latest
+                    tags: 4tmoon/study-api:latest
